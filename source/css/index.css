@@ -2,3 +2,22 @@
     color: lightcoral;
     font-size: 16px;
 }
+
+.list{
+    list-style: none;
+}
+
+.item{
+    color: #222;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.05);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.item + .item{
+    margin-top: 5px;
+}
