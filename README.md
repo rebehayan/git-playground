@@ -1,4 +1,4 @@
-# Git CLI Study 
+# Git CLI Study for Beginners
 
 ## Linux(bash/shell) 기본 명령어
 
